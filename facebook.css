@@ -1,0 +1,13 @@
+.facebook-logo{
+    width: 120px;
+    height: 120px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    background-color: #3b5998;
+}
+.facebook-logo i{
+    color: white;
+    font-size: 60px;
+}
